@@ -1,5 +1,5 @@
 @extends('app')
-
+@section('title', 'Contact Us')
 @section('content')
 <div>
     <h1>Biodata</h1>

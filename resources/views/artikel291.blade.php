@@ -1,5 +1,5 @@
 @extends('app')
-
+@section('title', 'Artikel')
 @section('content')
     <div>
             <h1 class="h2 title">What is Machine Learning? A Definition.</h1><div style="font-size: 16px; margin-top: -1%; margin-bottom:20px;">Expert.ai Team - 6 May 2020</div><div class="entry-content"><p><img loading="lazy" class="aligncenter wp-image-122912 size-full" src="http://devexpertai.wpengine.com/wp-content/uploads/2017/03/machine-learning-definition.jpeg" alt="" srcset="https://www.expert.ai/wp-content/uploads/2017/03/machine-learning-definition.jpeg 1600w, https://www.expert.ai/wp-content/uploads/2017/03/machine-learning-definition-300x79.jpeg 300w, https://www.expert.ai/wp-content/uploads/2017/03/machine-learning-definition-1024x268.jpeg 1024w, https://www.expert.ai/wp-content/uploads/2017/03/machine-learning-definition-768x201.jpeg 768w, https://www.expert.ai/wp-content/uploads/2017/03/machine-learning-definition-1536x402.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" width="1600" height="419"></p>
